@@ -8,7 +8,7 @@ I am a Full Stack Engineer with 2 years of experience building scalable, high-qu
 
 ## 🚀 My Skills
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ruby,rails,react,vue,typescript,postgresql,docker,git" />
   </a>
