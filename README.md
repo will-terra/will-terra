@@ -15,6 +15,7 @@
 </p>
 
 ## GitHub Stats
+
 ![WillTerra's GitHub stats](https://github-readme-stats.vercel.app/api?username=will-terra&show_icons=true&theme=dark&hide_border=false&include_all_commits=true)
-<code><br/></code>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=will-terra&stats_format=bytes&theme=dark)
