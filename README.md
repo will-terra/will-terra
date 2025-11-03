@@ -6,6 +6,7 @@
 
 💬 I am currently seeking opportunities where I can combine my technical skills with critical thinking and problem-solving to contribute to innovative, collaborative projects.
 
+
 ## 🚀 My Skills
 
 <p align="left">
@@ -13,6 +14,8 @@
     <img src="https://skillicons.dev/icons?i=ruby,rails,react,nextjs,vue,js,typescript,postgresql,aws,docker,git" />
   </a>
 </p>
+
+
 
 ## ⭐ GitHub Stats
 
