@@ -1,4 +1,4 @@
-## Hello, my name is William!
+## 👋 Hello, my name is William!
 
  I am a Full Stack Engineer with 2 years of experience building scalable, high-quality web applications using Ruby on Rails, React.js, TypeScript, Node.js, and Next.js. I am passionate about clean, maintainable code and enhancing web performance. My previous experience as a Chef honed my adaptability, attention to detail, and ability to thrive under pressure — skills I now apply in the tech world through efficient planning and teamwork.
 
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-## GitHub Stats
+## ⭐ GitHub Stats
 
 ![WillTerra's GitHub stats](https://github-readme-stats.vercel.app/api?username=will-terra&theme=dark&hide_border=false&include_all_commits=true)
 
