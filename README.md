@@ -15,5 +15,6 @@
 </p>
 
 ## GitHub Stats
-<code><img src="https://github-readme-stats.vercel.app/api?username=will-terra&theme=dark&hide_border=false&include_all_commits=true" alt="Github Stats"/></code>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=will-terra&stats_format=bytes&theme=dark)
+![WillTerra's GitHub stats](https://github-readme-stats.vercel.app/api?username=will-terra&show_icons=true&theme=dark&hide_border=false&include_all_commits=true)
+<code><br/></code>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=will-terra&stats_format=bytes&theme=dark)
