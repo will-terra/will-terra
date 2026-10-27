@@ -1,24 +1,42 @@
-## 👋 Hello, my name is William!
+# Hi, I'm William 👋
 
- I am a Full Stack Engineer with 3 years of experience building scalable, high-quality web applications using Ruby on Rails, React.js, TypeScript, Node.js, and Next.js. I am passionate about clean, maintainable code and enhancing web performance. My previous experience as a Chef honed my adaptability, attention to detail, and ability to thrive under pressure — skills I now apply in the tech world through efficient planning and teamwork.
+**Full Stack Engineer · Ruby on Rails & React** — 3 years building multi-tenant web apps that real people depend on, from municipal public-service systems to international e-commerce UI.
 
-🔭 I've contributed to an international project with Yamaha USA, working in an English-speaking environment to deliver optimized UI/UX solutions.
+📍 Rio Grande do Sul, Brazil · 🌎 Open to remote roles · 💬 Portuguese & English
 
-💬 I am currently seeking opportunities where I can combine my technical skills with critical thinking and problem-solving to contribute to innovative, collaborative projects.
+---
 
+### 🛠️ What I'm working on
 
-## 🚀 My Skills
+- **Municipal management systems** at a Brazilian govtech company — a multi-tenant Rails 8 stack (Docker, PostgreSQL, Redis, Nginx) powering social assistance and public procurement modules for Brazilian cities. Hotwire/Turbo/Stimulus on the front, hundreds of routes under automated validation.
+- **[WorkMachine](https://github.com/will-terra/WorkMachine)** — my own job-search automation app: Rails 8 + Hotwire PWA with a job aggregator, stack-based scoring, an application kanban with `.xlsx` export, and AI-assisted application tailoring.
+- **Local AI coding agent** — self-hosted LLM setup (Ollama + Qwen3-Coder) on my own workstation, wired into VS Code as an agent.
+
+### 🌍 Highlights
+
+- Shipped UI/UX improvements for an international project with **Yamaha USA**, working fully in English with a distributed team.
+- ☁️ **AWS Certified Cloud Practitioner** and **AWS Certified AI Practitioner** (Early Adopter).
+- Studying **Software Engineering** (B.Sc.) at UniCesumar.
+- Former **chef** — kitchens taught me to plan ahead, stay calm under pressure and care about every detail. I bring the same mindset to code reviews and deadlines.
+
+### 🚀 Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,react,nextjs,vue,js,typescript,postgresql,aws,docker,git" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,react,nextjs,ts,js,nodejs,vue,postgres,redis,docker,aws,linux,git&perline=14" />
   </a>
 </p>
 
+Also: Hotwire (Turbo + Stimulus), RSpec, REST APIs, Tailwind, WSL2.
 
+### 📈 Activity
 
-## ⭐ GitHub Stats
+<p align="left">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=will-terra&theme=github-dark-blue&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=will-terra&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+</p>
 
-![WillTerra's GitHub stats](https://github-readme-stats.vercel.app/api?username=will-terra&theme=dark&hide_border=false&include_all_commits=true)
+### 📫 Let's talk
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=will-terra&stats_format=bytes&theme=dark)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-terra-fullstack-ruby-react/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:wpterra@outlook.com)
